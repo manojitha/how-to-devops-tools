@@ -8,5 +8,4 @@ spec:
   lifecycle: dev
   owner: JioDigitalU2CDevTeam
   system: examples
-  definition:
-    $text: ./digital-balance-adjustment.json
+  definition: ./digital-balance-adjustment.json
