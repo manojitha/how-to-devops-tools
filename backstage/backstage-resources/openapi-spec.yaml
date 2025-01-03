@@ -9,4 +9,4 @@ spec:
   owner: JioDigitalU2CDevTeam
   system: examples
   definition:
-    $text: 'https://devops.jio.com/JioMobilityAndEnterprise/DigitalAPI_Retail/_apis/git/repositories/digitalapi-spec/items?path=%2Fdigital%2Fbilling%2Fmanage-digital-balance%2Fdigital-balance-adjustment-v1.0.0.yaml'
+    $text: ./digital-balance-adjustment.json
